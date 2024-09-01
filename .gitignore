@@ -1,3 +1,4 @@
+# add comment in .gitignore
 *.iml
 .gradle
 /local.properties
